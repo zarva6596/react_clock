@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AACE,WACE,aAAc,CACd,yBAAkB,CAAlB,sBAAkB,CAAlB,iBAAkB,CAClB,eAAgB,CAChB,eAAgB","file":"main.8ffd47c3.chunk.css","sourcesContent":[".box {\n  &__time {\n    display: block;\n    width: fit-content;\n    font-size: 100px;\n    margin: 15% auto;\n  }\n}\n"]}
